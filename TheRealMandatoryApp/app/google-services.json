@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "789706005485",
+    "firebase_url": "https://mandatoryproject-666ac.firebaseio.com",
+    "project_id": "mandatoryproject-666ac",
+    "storage_bucket": "mandatoryproject-666ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789706005485:android:90b5e79489cad489",
+        "android_client_info": {
+          "package_name": "dk.easj.ianx0156.mandatoryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789706005485-34dpa9ej6qbo9m7vh722jmi1h3f0hn1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRywzPpD5o2DbT0cxrety0lY739ZdoJ_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789706005485:android:429ba7db1f0ce72b",
+        "android_client_info": {
+          "package_name": "dk.easj.ianx0156.therealmandatoryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789706005485-34dpa9ej6qbo9m7vh722jmi1h3f0hn1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRywzPpD5o2DbT0cxrety0lY739ZdoJ_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
